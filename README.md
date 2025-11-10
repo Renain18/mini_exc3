@@ -1,2 +1,2 @@
-# mini_exc2
+# mini_exc3
 Third mini excercise
